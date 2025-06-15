@@ -1,78 +1,67 @@
-<h1 align="center">🚀 Tabrez Rabbani</h1>
-<h3 align="center">Turning Ideas into Code • Logic Lover • Automation Builder • Clean Solutions</h3>
+# Hi, I'm Tabrez Rabbani 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tabrez-rabbani&label=Profile%20views&color=0e75b6&style=flat" alt="tabrez-rabbani" />
-</p>
+Turning Ideas into Real-World Tech 🔥
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- 🔭 Full-stack developer with real-world projects.
-- 🤖 Specialized in AI Chatbots, LangChain, n8n workflows, PDF AI, WhatsApp Cloud API.
-- 🚀 My Projects:
-  - 🎯 E-Commerce Clothing Store (`Qwalitee`)
-  - 🎯 Gym Supplement Platform (`MuscleAdd`)
-  - 🎯 Food Delivery System (`Zayka Express`)
-  - 🎯 AI PDF Q&A Tool
-  - 🎯 Movie Platform (`moviexyz.com`)
-- 🌱 Learning Agentic AI, GPT Applications & Automation Scaling.
-- 💬 Open for freelance, collaboration & SaaS ideas.
-- 📫 Email me: **tabrezrabbani@gmail.com**
+🎓 Computer Applications Graduate  
+🧠 Logic-Lover | Automation Enthusiast | AI Explorer  
+💻 Passionate about building scalable full-stack apps, automations & AI-powered tools  
+🚀 I build real-world projects that solve real problems.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 💻 Full Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Languages:**  
+`JavaScript` `TypeScript` `Python` `C++`
 
-### 🤖 AI & Automation
-![LangChain](https://img.shields.io/badge/-LangChain-2088FF?style=for-the-badge)
-![n8n](https://img.shields.io/badge/-n8n-ef4f4f?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+**Frontend:**  
+`React.js` `Next.js` `Tailwind CSS`
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-0f0f0f?style=for-the-badge&logoColor=white)
+**Backend:**  
+`Node.js` `Express.js` `MongoDB`
+
+**AI & Automation:**  
+`LangChain` `OpenAI API` `Groq API` `n8n` `WhatsApp Cloud API`
+
+**DevOps & Tools:**  
+`Vercel` `Netlify` `Git` `GitHub Actions` `Razorpay API`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**MovieXYZ**](https://moviexyz.com) | High-speed movie downloading platform with SEO & admin panel | Next.js, MongoDB |
+| **Qwalitee** | E-commerce platform for premium T-shirt brand | MERN, Razorpay |
+| **MuscleAdd** | Gym supplements online store | MERN, Razorpay |
+| **Zayka Express** | Online food delivery system | MERN Stack |
+| **PDF AI Chat** | Chat with your PDF using LangChain + Groq | LangChain, Groq API |
+| **Library Management** | Full College LMS System | PHP, MySQL |
+| **Instagram Automation** | Content generation & scheduling using n8n | n8n, AI |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabrez-rabbani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=tabrez-rabbani&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tabrez-rabbani&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabrez-rabbani&theme=radical" />
 </p>
 
 ---
 
-## 🌐 My Portfolio
+## 🌐 Let's Connect
 
-🚀 **[Visit: tabrezrabbani.com](https://tabrezrabbani.in)**
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/tabrez-rabbani"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tabrezrabbani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tabrezrabbani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tabrezrabbani.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-> **"I don't just build projects, I build solutions."**
-
----
-
+> **"Building clean code with real-world impact."**
