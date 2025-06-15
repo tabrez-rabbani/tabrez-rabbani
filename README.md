@@ -37,9 +37,9 @@ Turning Ideas into Real-World Tech 🔥
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**MovieXYZ**](https://moviexyz.com) | High-speed movie downloading platform with SEO & admin panel | Next.js, MongoDB |
-| [**Qwalitee**](https://tabrezrabbani.com/qwalitee) | E-commerce platform for premium T-shirt brand | MERN, Razorpay |
-| [**MuscleAdd**](https://tabrezrabbani.com/muscleadd) | Gym supplements online store | MERN, Razorpay |
-| [**Zayka Express**](https://tabrezrabbani.com/zayka-express) | Online food delivery system | MERN Stack |
+| [**Qwalitee**](https://qwalitee.in) | E-commerce platform for premium T-shirt brand | MERN, Razorpay |
+| [**MuscleAdd**](https://muscleadda.in) | Gym supplements online store | MERN, Razorpay |
+| [**Zayka Express**](https://zayka-frontend.vercel.app) | Online food delivery system | MERN Stack |
 | [**PDF AI Chat**](https://tabrezrabbani.com/pdf-ai-chat) | Chat with your PDF using LangChain + Groq | LangChain, Groq API |
 | [**Library Management**](https://tabrezrabbani.com/library-management) | Full College LMS System | PHP, MySQL |
 | [**Instagram Automation**](https://tabrezrabbani.com/insta-automation) | Content generation & scheduling using n8n | n8n, AI |
