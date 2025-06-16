@@ -1,9 +1,6 @@
 # Hi, I'm Tabrez Rabbani 👋
 
-> **Turning Ideas into Real-World Tech 🔥**
-
-![Profile Views](https://komarev.com/ghpvc/?username=tabrez-rabbani&style=flat-square&color=blue)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Developer;Automation+Engineer;AI+Explorer;Building+Clean+Code+with+Real-World+Impact)](https://git.io/typing-svg)
+Turning Ideas into Real-World Tech 🔥
 
 ---
 
@@ -53,15 +50,8 @@
 
 <p align="center">
   <img src="https://tbzcoders-projects-github-readme-stats.vercel.app/api?username=tabrez-rabbani&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&border_radius=10" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabrez-rabbani&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tabrez-rabbani&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues"/>
 </p>
 
 ---
