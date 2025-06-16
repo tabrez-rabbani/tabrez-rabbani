@@ -1,6 +1,9 @@
 # Hi, I'm Tabrez Rabbani 👋
 
-Turning Ideas into Real-World Tech 🔥
+> **Turning Ideas into Real-World Tech 🔥**
+
+![Profile Views](https://komarev.com/ghpvc/?username=tabrez-rabbani&style=flat-square&color=blue)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Developer;Automation+Engineer;AI+Explorer;Building+Clean+Code+with+Real-World+Impact)](https://git.io/typing-svg)
 
 ---
 
@@ -55,6 +58,14 @@ Turning Ideas into Real-World Tech 🔥
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tabrez-rabbani&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues"/>
+</p>
+
+---
+
 ## 🌐 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tabrezrabbani.in)
@@ -65,4 +76,3 @@ Turning Ideas into Real-World Tech 🔥
 ---
 
 > **"Building clean code with real-world impact."**
-
